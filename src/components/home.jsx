@@ -15,9 +15,7 @@ const home = () => {
             I am a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            A full-stack developer is a person who can develop both client and
-            server software. They must have expertise in all aspects of the
-            development process, such as business logic and user experience.{" "}
+            Hi, i'm Rishi and i am a freelance developer and i have 4 years of experience in building and designing software. I love to work on web-applications using react, nodeJs, Django, etc, and i work on AI and ML using tensorflow, pandas, scikit-learn etc{" "}
           </p>
           <div>
             <Link to="portfolio" smooth duration={500} className=" group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">

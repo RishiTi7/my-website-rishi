@@ -10,11 +10,11 @@ const about = () => {
                 </p>
             </div>
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis aut numquam cum consequuntur ipsa similique magni doloremque itaque minima. A incidunt praesentium vel rerum quo saepe quas numquam maiores maxime exercitationem ullam iste fuga nulla ea, molestiae cupiditate, voluptas rem tempore illum repellendus quod impedit. Labore error asperiores fuga aliquid?
+               "Everyday is about learning something new", this quote reminds me that we are not limited and we have to work everyday to make our mind sharper and sharper, continious learning makes us ready for the modern world,  
             </p>
             <br/>
             <p  className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eius tempore enim modi, eum neque hic distinctio dolor fuga expedita temporibus quo cumque repellendus aliquam possimus maiores deserunt voluptatum exercitationem praesentium? Corrupti a repellendus explicabo illo odit atque aut, assumenda placeat ipsa facere? Nostrum magni molestiae voluptate doloremque, dolorum perspiciatis?
+            I started coding when i was in my first year of btech and the first coding language i coded was C, then i started coding in JavaScript and something just sparked my interest in app development and web-development and started to use react for my builds. Then i shifted my interst to AI and ML during my third year of B-TECH and started to work on Ml algorithms and models and made projects like Chatbot and future predictions by analysing data on tumors. Now i'ts been a lot of journey since i started coding many buys and many sleppless nights and many more to come. But one thing is for sure that quote above written should never be forgotten.
             </p>
         </div>
     </div>
