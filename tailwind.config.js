@@ -4,6 +4,7 @@ module.exports = {
     extend: {},
     fontFamily:{
       signature:["Great Vibes"],
+      scripture:["Pacifico"],
     }
   },
   plugins: [],

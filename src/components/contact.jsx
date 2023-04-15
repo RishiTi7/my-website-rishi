@@ -13,7 +13,7 @@ const contact = () => {
             <input
               type="text"
               name="name"
-              placeholder="Enter your name "
+              placeholder="Enter your Name "
               className="p-2 pl-3 bg-transparent border-2 rounded-md text-white
                      focus:outline-none"
             />

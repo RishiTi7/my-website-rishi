@@ -36,7 +36,7 @@ const portfolio = () => {
         },
         {
             id:5,
-            title:"YTBookmarker",
+            title:"YT video time Bookmarker",
             src: youtube,
             href:"https://github.com/RishiTi7/youtube-bookmarker-chrome-extenstion",
         },
