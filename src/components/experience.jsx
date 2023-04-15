@@ -8,6 +8,12 @@ import Js from "../assests/js.png";
 import Python from "../assests/python.png";
 import ReactLogo from "../assests/react.png";
 import MongoDb from "../assests/mongodb.png";
+import Go from "../assests/go.png";
+import C from "../assests/c.png";
+import Aws from "../assests/aws.png";
+import Figma from "../assests/figma.png";
+import Gits from "../assests/git.png";
+import Android from "../assests/android.png";
 
 const experience = () => {
   const techs = [
@@ -27,18 +33,18 @@ const experience = () => {
       id: 3,
       src: Js,
       title: "JavaScript",
-      style: "shadow-yellow-500",
+      style: "shadow-amber-300",
     },
     {
       id: 4,
       src: Python,
       title: "PYTHON",
-      style: "shadow-green-500",
+      style: "shadow-emerald-700",
     },
     {
       id: 5,
       src: ReactLogo,
-      title: "REACt",
+      title: "React",
       style: "shadow-blue-600",
     },
     {
@@ -57,13 +63,49 @@ const experience = () => {
       id: 8,
       src: Hadoop,
       title: "HADOOP",
-      style: "shadow-yellow-600",
+      style: "shadow-yellow-500",
     },
     {
       id: 9,
       src: Cassandra,
       title: "CASSANDRA",
       style: "shadow-gray-500",
+    },
+    {
+      id: 10,
+      src: Aws,
+      title: "AWS",
+      style: "shadow-amber-300",
+    },
+    {
+      id: 11,
+      src: C,
+      title: "C#",
+      style: "shadow-violet-500 ",
+    },
+    {
+      id: 12,
+      src: Figma,
+      title: "Figma",
+      style: "shadow-pink-500",
+    },
+    {
+      id: 13,
+      src: Gits,
+      title: "Git",
+      style: "shadow-red-700",
+    },
+    {
+      id: 14,
+      src: Go,
+      title: "GO",
+      style: "shadow-cyan-500",
+    },
+    {
+      id: 15,
+      src: Android,
+      title: "Android",
+      style: "shadow-green-700",
     },
   ];
   return (
