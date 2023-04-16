@@ -111,14 +111,14 @@ const experience = () => {
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-full"
+      className="bg-gradient-to-b from-gray-800 to-black w-full h-full "
     >
-      <div className="max-w-screen-lg mx-auto pt-72 flex flex-col justify-center w-full h-full text-white">
+      <div className="max-w-screen-lg p-4 mx-auto pt-72 flex flex-col justify-center w-full h-full text-white">
         <div className="pb-8"> 
           <p className="text-4xl font-bold border-b-4 border-gray-500 inline">
             Experience
           </p>
-          <p className="py-6 text-xl">This are some of the technologies i have worked with</p>
+          <p className="py-6 text-xl">These are some of the technologies i have worked with</p>
         </div>
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">
             {techs.map(({id,src,title,style})=>(     //we are using paranthesis coz we are returing jsx
