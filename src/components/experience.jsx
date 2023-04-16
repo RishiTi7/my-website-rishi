@@ -115,7 +115,7 @@ const experience = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto pt-72 flex flex-col justify-center w-full h-full text-white">
         <div className="pb-8"> 
-          <p className="text-4xl font-bold border-b-4 border-gray-500 inline">
+          <p className="text-4xl font-bold ">
             Experience
           </p>
           <p className="py-6 text-xl">These are some of the technologies i have worked with</p>
